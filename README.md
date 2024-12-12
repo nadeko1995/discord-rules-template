@@ -1,9 +1,9 @@
 # Server Rules
-**Rule 1: Respect the service that we use.** Follow Discord TOS and don’t post anything illegal. For more details, see the Content Policy below.
+**Rule 1: Respect the service that we use.** Follow Discord TOS and don’t post anything illegal.
 
-**Rule 2: Respect other members of the server.** Treat everyone kindly. This server does not tolerate any form of harassment or bullying. For more details, see the Content Policy below.
+**Rule 2: Respect other members of the server.** Treat everyone kindly. This server does not tolerate any form of harassment or bullying.
 
-**Rule 3: Respect the purpose of each channel.** Do not post spam, self-promotion, NSFW, or clog a channel with posts unrelated to its topic. Read channel descriptions so that you know what content is appropriate for each channel. Respect ongoing conversations. For more details, see the Content Policy below.
+**Rule 3: Respect the purpose of each channel.** Do not post spam, self-promotion, NSFW, or clog a channel with posts unrelated to its topic. Read channel descriptions so that you know what content is appropriate for each channel. Respect ongoing conversations.
 
 **Rule 4: Respect the rules.** By joining the server, you agree to follow the rules and respect the mods that enforce these rules in order to make sure everyone has a good experience. Don’t exploit grey areas in the phrasing. You’re free to ask mods for proof and justifications of their moderation decisions, but respect their final judgment.
 

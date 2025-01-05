@@ -9,11 +9,6 @@
 
 # Content Policy
 Content which is NOT ALLOWED in the server will be defined in the following categories: \
-a) Illegal or against the Discord Terms of Service — breaks Rule 1 (“Respect the service that we use”) \
-b) Harassment or Targeted Attacks  — breaks Rule 2 (“Respect other members of the server”) \
-c) Not Safe For Work — breaks Rule 3 (“Respect the purpose of each channel”) \
-d) Spam — breaks Rule 3 (“Respect the purpose of each channel”) \
-e) Off-Topic — breaks Rule 3 (“Respect the purpose of each channel”)
 
 ### A. Illegal or against Discord TOS
 A common but *non-exhaustive* list of content that violates Discord’s Terms of Service, and is therefore not allowed in this server:

@@ -23,7 +23,7 @@ The following constitute harassment or targeted attacks:
 - Hot button words (i.e. slurs) used in hateful contexts or hinted to be used (“baited”) to get a rise out of someone or to make a tasteless joke/punchline about a heated topic.
 - Incitement of heated argument about topics like serious current events, race, religion, politics, sexuality, gender identity, disability, or other minority groups.
 - Repeated and/or forceful interactions with another user or mod that aim to negatively affect said person (“bullying”).
-If you display behavior specified above, you will receive a warning for your first violation and a ban for repeated violations.
+  If you display behavior specified above, you will receive a warning for your first violation and a ban for repeated violations.
   
 ### C. Not Safe For Work (NSFW)
 The following types of content are considered NSFW and are NOT ALLOWED IN ANY CHANNEL:
@@ -31,7 +31,8 @@ The following types of content are considered NSFW and are NOT ALLOWED IN ANY CH
 - Written erotica: images, gifs, videos, text posts, copypasta, or links to explicit writing.
 - Fetish content: disallowed even without excessive nudity or violence, as long as there is clear sexual intent or sexualization of otherwise benign subjects/objects.
 - Excessive violence: gore, displays of violent crime, disgusting/gross-out content. A good rule of thumb is that if you wouldn’t see it in a PG-13 movie, don’t post it.
-If you post any of these, you’ll receive a warning for your first violation and a ban for repeated violations. Presence of these types of content in your PROFILE PICTURE, HEADER, USERNAME, NICKNAME, BIO, or CUSTOM STATUS will be subject to the same punishment.
+
+ If you post any of these, you’ll receive a warning for your first violation and a ban for repeated violations. Presence of these types of content in your PROFILE PICTURE, HEADER, USERNAME, NICKNAME, BIO, or CUSTOM STATUS will be subject to the same punishment.
 
 ### D. Spam
 We define spam as follows:
